@@ -1,4 +1,11 @@
 
+Multiply
+
+int c;
+int d;
+int mul = c*d;
+
+
 Substraction
 
 int x;
